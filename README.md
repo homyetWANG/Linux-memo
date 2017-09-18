@@ -30,7 +30,7 @@ https://linux.cn/article-2250-1-weixin.html <br>
 * 远程复制 <br>
 scp authorized_keys aboutyun123@master:~/.ssh/authorized_keys_from_ubuntu <br>
 
-# 软件下载 <br>
+软件下载 <br>
 
 Linux JDK、WinScp <br>
 链接：http://pan.baidu.com/s/1i3vkG53 密码：cjuh <br>
