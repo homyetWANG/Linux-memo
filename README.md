@@ -23,7 +23,7 @@ sudo mv jdk opt <br>
 文件更改所有者(下面为更改hadoop文件夹的权限) <br>
 sudo chown -R  aboutyun:aboutyun  hadoop <br>
  <br>
-* grep 查看端口是否被暂用 <br>
+* grep查看端口是否被暂用 <br>
 sudo netstat -ap | grep 8080 <br>
 sudo netstat -ant|grep 3306 <br>
 https://linux.cn/article-2250-1-weixin.html <br>
