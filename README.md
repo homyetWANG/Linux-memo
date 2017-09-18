@@ -6,10 +6,9 @@ Linux 常用命令
 生成key：  <br>
 $ ssh-keygen -t dsa -P '' -f ~/.ssh/id_dsa  <br>
 $ cat ~/.ssh/id_dsa.pub >> ~/.ssh/authorized_keys  <br>
-  <br>
-    -t   密钥类型可以用 -t 选项指定。  <br>
-          如果没有指定则默认生成用于SSH-2的RSA密钥。c
-   -f filename 指定密钥文件名。  <br>
+ -t   密钥类型可以用 -t 选项指定。  <br>
+          如果没有指定则默认生成用于SSH-2的RSA密钥。 <br>
+ -f filename 指定密钥文件名。  <br>
 
 * 解压包： <br>
 sudo tar zxvf ./jdk-7-linux-i586.tar.gz  -C /usr/lib/jvm <br>
